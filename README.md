@@ -1,3 +1,5 @@
+# This was forked
+The author should have full credit - if you landed here, goto the source.
 # Hadoop Book Example Code
 
 This repository contains the example code for [Hadoop: The Definitive Guide, Fourth Edition](http://shop.oreilly.com/product/0636920033448.do)
